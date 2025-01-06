@@ -19,7 +19,7 @@ namespace odd_or_even
                 }
                 else
                 {
-                    Console.WriteLine($"Число {number} является нечётным");
+                    Console.WriteLine($"Число {number} является нечётным")
                 }
             }
             else
