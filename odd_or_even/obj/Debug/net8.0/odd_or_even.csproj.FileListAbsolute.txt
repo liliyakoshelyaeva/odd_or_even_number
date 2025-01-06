@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\odd_or_even\odd_or_even\obj\Debug\net8.0\odd_or_even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\odd_or_even\odd_or_even\obj\Debug\net8.0\odd_or_even.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\odd_or_even\odd_or_even\obj\Debug\net8.0\odd_or_even.AssemblyInfo.cs
+C:\Users\1\source\repos\odd_or_even\odd_or_even\obj\Debug\net8.0\odd_or_even.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\odd_or_even\odd_or_even\bin\Debug\net8.0\odd_or_even.exe
+C:\Users\1\source\repos\odd_or_even\odd_or_even\bin\Debug\net8.0\odd_or_even.deps.json
+C:\Users\1\source\repos\odd_or_even\odd_or_even\bin\Debug\net8.0\odd_or_even.runtimeconfig.json
+C:\Users\1\source\repos\odd_or_even\odd_or_even\bin\Debug\net8.0\odd_or_even.dll
+C:\Users\1\source\repos\odd_or_even\odd_or_even\bin\Debug\net8.0\odd_or_even.pdb
+C:\Users\1\source\repos\odd_or_even\odd_or_even\obj\Debug\net8.0\odd_or_even.dll
+C:\Users\1\source\repos\odd_or_even\odd_or_even\obj\Debug\net8.0\refint\odd_or_even.dll
+C:\Users\1\source\repos\odd_or_even\odd_or_even\obj\Debug\net8.0\odd_or_even.pdb
+C:\Users\1\source\repos\odd_or_even\odd_or_even\obj\Debug\net8.0\odd_or_even.genruntimeconfig.cache
+C:\Users\1\source\repos\odd_or_even\odd_or_even\obj\Debug\net8.0\ref\odd_or_even.dll
